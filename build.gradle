@@ -9,6 +9,7 @@ repositories {
     jcenter()
 }
 
+
 dependencies {
     compile 'mysql:mysql-connector-java:5.1.37'
     compile "org.springframework:spring-context:${springVersion}"
